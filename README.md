@@ -32,6 +32,7 @@ int main() {
     // Your code to create an array/vector and call merge_sort
     return 0;
 }
+```
 
 ## Contributing
 
