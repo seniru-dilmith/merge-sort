@@ -32,3 +32,15 @@ int main() {
     // Your code to create an array/vector and call merge_sort
     return 0;
 }
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+Feel free to customize this template according to your project's specifics, such as adding more detailed usage instructions, examples, or additional sections as needed.
+
